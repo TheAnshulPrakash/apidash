@@ -57,9 +57,9 @@ Once the loop resolves, API Dash renders a human-readable UI report showing func
 
 ***I'm uploading UI mockups to better demonstrate my thinking*** 
 
-[UI Image 2](images/anshul_ui_mockup_2.png)
-[UI Image 3](images/anshul_ui_mockup_3.png)
+![UI Image 2](images/anshul_ui_mockup_1.png)
+![UI Image 3](images/anshul_ui_mockup_3.png)
 
 ***Also the Workflow Design***
 
-[UI Image 1](images/anshul_api_testing_mermaid.png)
+![UI Image 1](images/anshul_api_testing_mermaid.png)
